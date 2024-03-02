@@ -15,14 +15,24 @@ Scenario:
 
 You have received notice that the recently submitted New York City TLC project proposal has been approved. The Automatidata team now has access to the New York City TLC data to analyze, identify key variables, and prepare for exploratory data analysis.
 
-Course 2 tasks:
+Project background
+Automatidata is in the earliest stages of the TLC project. The following tasks are needed before the team can begin the data analysis process:
 
-Load data, explore, and extract the New York City TLC data with Python
+Build a dataframe for the TLC dataset
 
-Use custom functions to organize the information within the New York City TLC dataset
+Examine data type of each column
 
-Build a dataframe for the New York City TLC project
+Gather descriptive statistics
 
-Create an executive summary for Automatidata
+Build a dataframe for the TLC data,organize the data for the process of exploratory data analysis.
 
-Note: The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes. 
+Specific project deliverables
+With this project:
+
+Answer the questions in the Jupyter notebook project file
+
+Complete coding prep work on project’s Jupyter notebook
+
+Summarize the column Dtypes
+
+Communicate important findings  
